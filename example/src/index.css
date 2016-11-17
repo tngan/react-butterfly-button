@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  font-family: 'Noto Sans', sans-serif;
+}
+
+#root {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 150px;
+}
+
+p {
+  margin-top: 40px;
+}
