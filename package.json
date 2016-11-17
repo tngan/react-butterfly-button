@@ -1,6 +1,6 @@
 {
   "name": "react-butterfly-button",
-  "version": "1.0.0",
+  "version": "1.0.0-alpha.1",
   "description": "Split button overlaid on an image",
   "main": "build/index.js",
   "scripts": {
