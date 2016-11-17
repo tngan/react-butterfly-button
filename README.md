@@ -1,6 +1,9 @@
 react-butterfly-button
 ===========
 
+[![Build Status](https://travis-ci.org/tngan/react-butterfly-button.svg?branch=master)](https://travis-ci.org/tngan/react-butterfly-button)
+[![devDependencies Status](https://david-dm.org/tngan/react-butterfly-button/dev-status.svg)](https://david-dm.org/tngan/react-butterfly-button?type=dev)
+
 <img src="http://zippy.gfycat.com/ColorfulShortKarakul.gif" alt="normal-login" width="30%">
 
 ## Installation
