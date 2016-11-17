@@ -1,6 +1,8 @@
 react-butterfly-button
 ===========
 
+<img src="http://zippy.gfycat.com/ColorfulShortKarakul.gif" alt="normal-login" width="30%">
+
 ## Installation
 
 You can use yarn or npm to install this module
