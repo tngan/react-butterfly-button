@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import './App.css';
-import ButterflyButton, { TB, LR, C } from '../../build';
+import ButterflyButton, { TB, LR, C } from 'react-butterfly-button';
 
 class App extends Component {
   render() {

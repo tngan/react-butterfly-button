@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "devDependencies": {
+    "react-butterfly-button": "^1.0.0",
     "react-scripts": "0.7.0"
   },
   "dependencies": {
